@@ -3,7 +3,7 @@
 I’m a passionate developer with a focus on [specific technology or area, e.g., web development, data science, machine learning]. I enjoy solving problems and building innovative projects. I’m constantly learning and exploring new technologies to improve my skills.
 
 🚀 Technologies I work with:
-	•	Languages: [Java,C++]
+	•	Languages: (https://skillicons.dev/icons?i=cpp,java,cs,html,css,js,bootstrap,sass,tailwind,react,mysql,mongodb,nextjs,postman,figma,photoshop,illustrator&perline=11)
 	•	Tools & Platforms: [List tools like Git,Visual Studio Code,GitHub,LeetCode,Codeforces]
 
 📚 What I’m working on:
