@@ -6,7 +6,7 @@ I’m a passionate developer with a focus on [specific technology or area, e.g.,
  
 <h2 align="left">Skills:</h2>
 
-![Skills](https://skillicons.dev/icons?i=cpp,java).
+![Skills](https://skillicons.dev/icons?i=cpp,java,html,css,python)
 
 <br>
 	•	Tools & Platforms: [List tools like Git,Visual Studio Code,GitHub,LeetCode,Codeforces]
